@@ -8,5 +8,5 @@ That's it! I built it to make randomize easier and it worked.
 
 ### To use this library, paste this into your HTML code:
 ```HTML
-<script src="https://cdn.rawgit.com/yannick1124/RandomInt/aa708715/randomInt.min.js"></script>
+<script src="https://cdn.rawgit.com/yannick1124/RandomInt/482db60a/randomInt.min.js"></script>
 ```
